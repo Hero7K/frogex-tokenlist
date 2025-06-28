@@ -1,6 +1,12 @@
 {
   "name": "FROGEX Token List",
-  "logoURI": "https://raw.githubusercontent.com/Hero7K/frogex-tokenlist/main/logo.png",
+  "timestamp": "2025-06-23T12:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": ["defi","memes","governance"],
   "tokens": [
     {
       "chainId": 56,
@@ -8,7 +14,13 @@
       "symbol": "FRGX",
       "name": "FROGEX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Hero7K/frogex-tokenlist/main/logo.png"
+      "logoURI": "https://hero7k.github.io/frogex-tokenlist/logo.png",
+      "extensions": {
+        "website": "https://frogexcrypto.com",
+        "email": "contact@frogexcrypto.com",
+        "telegram": "https://t.me/FRGX_Finance",
+        "coingeckoId": "frogex"
+      }
     }
   ]
 }
